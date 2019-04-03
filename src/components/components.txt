@@ -1,0 +1,6 @@
+header 头部
+rank   排行
+recommend 推荐页面
+search 搜索页面
+singer 歌手页面
+tab
